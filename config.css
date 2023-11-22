@@ -5,7 +5,7 @@
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
-    background: #8BA9E8;
+    background: #e88bba;
     border-radius: 10px;
 }
 
@@ -13,12 +13,12 @@
     border: 1px solid #ccc;
     padding: 10px;
     margin: 10px;
-    background: #7623b9;
+    background: #b92369;
     border-radius: 10px;
 }
 
 .box {
-    width: 90%;
+    width: 40%;
 
 }
 
